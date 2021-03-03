@@ -12,7 +12,6 @@ namespace Assignment2
         {
             Console.WriteLine("Assignment 2 Solution");
             Console.WriteLine("-----------------------------------------\n");
-
         }
      }
 }
